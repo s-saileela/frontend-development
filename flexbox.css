@@ -1,0 +1,25 @@
+.box
+{
+    height:800px;
+    width:800px;
+    background-color: burlywood;
+    display:flex;
+}
+.a
+{
+    height:200px;
+    width:200px;
+    background-color: chartreuse;
+}
+.b
+{
+    height:200px;
+    width:200px;
+    background-color:magenta;
+}
+.c
+{
+    height:200px;
+    width:200px;
+    background-color:chartreuse;
+}

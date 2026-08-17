@@ -1,0 +1,23 @@
+.a
+{
+    width:200px;
+    height:150px;
+    position:absolute;
+    left:100px;
+    bottom:50px;
+    background-color:blue;
+
+}
+.b
+{
+    width:200px;
+    height:150px;
+    position:absolute;
+    left:80px;
+    bottom:20px;
+    background-color:black;
+}
+h1{
+    position:relative;
+    bottom:80px;
+}
