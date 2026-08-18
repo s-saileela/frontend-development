@@ -1,0 +1,57 @@
+
+.a {
+    height: 500px;
+    width: 100px;
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}
+
+.a div {
+    height: 50px;
+    width: 50px;
+}
+.b
+{
+    height:500px;
+    width:200px;
+    background-color:cornflowerblue;    
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content:flex-end;
+    flex-wrap: wrap;
+}
+.b div{
+    height:50px;
+    width:50px; 
+}
+.c div{
+    height:50px;
+    width:50px; 
+}
+.c
+{
+   height:500px;
+   width:200px; 
+   background-color: darkorchid;
+   display:flex;
+   flex-direction:row-reverse;
+   justify-content:flex-start;
+   flex-wrap:wrap-reverse;
+}
+.d
+{
+height:200px;
+    width:200px;
+    background-color: darkgoldenrod;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+.d div{
+    height:50px;
+    width:50px; 
+}

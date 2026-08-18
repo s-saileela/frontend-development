@@ -1,0 +1,80 @@
+.a
+{
+    height:500px;
+    width:500px;
+    background-color:brown;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content: start;
+}
+.b
+{
+    height:500px;
+    width:500px;
+    background-color:cornflowerblue;    
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+
+}
+.c
+{
+   height:500px;
+   width:500px; 
+   background-color: darkorchid;
+   display:flex;
+   flex-direction: column;
+   justify-content: center;
+}
+.d
+{
+    height:500px;
+    width:500px;
+    background-color: darkgoldenrod;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
+.e
+{
+    height:500px;
+    width:500px;
+    background-color:pink;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content:space-around;
+}
+.f
+{
+     height:500px;
+    width:500px;
+    background-color:limegreen;
+    display:flex;
+    flex-direction: column-reverse;
+    justify-content:space-evenly;
+}
+
+.a div{
+    height:50px;
+    width:50px;
+}
+.b div{
+    height:50px;
+    width:50px; 
+}
+.c div{
+    height:50px;
+    width:50px; 
+}
+.d div{
+    height:50px;
+    width:50px; 
+}
+.e div{
+    height:50px;    
+    width:50px;
+}
+.f div{
+height:50px;
+    width:50px;
+}

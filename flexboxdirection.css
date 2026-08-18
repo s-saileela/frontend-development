@@ -1,0 +1,48 @@
+.a
+{
+    height:500px;
+    width:500px;
+    background-color:brown;
+    display:flex;
+    flex-direction: row;
+}
+.b
+{
+    height:500px;
+    width:500px;
+    background-color:cornflowerblue;    
+    display:flex;
+    flex-direction: row-reverse;
+}
+.c
+{
+   height:500px;
+   width:500px; 
+   background-color: darkorchid;
+   display:flex;
+   flex-direction: column;
+}
+.d
+{
+    height:500px;
+    width:500px;
+    background-color: darkgoldenrod;
+    display:flex;
+    flex-direction: column-reverse;
+}
+.a div{
+    height:50px;
+    width:50px;
+}
+.b div{
+    height:50px;
+    width:50px; 
+}
+.c div{
+    height:50px;
+    width:50px; 
+}
+.d div{
+    height:50px;
+    width:50px; 
+}
